@@ -1,0 +1,7 @@
+.MuiAppBar-root{
+    padding-top: 0.5em;
+}
+#logo-rpc{
+    max-width: 6em;
+    background-color: white;
+}
