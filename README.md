@@ -1,6 +1,5 @@
 ## Scripts disponiveis
 
-In the project directory, you can run:
 No diretorio do projeto, você pode: 
 
 ### `npm start`
